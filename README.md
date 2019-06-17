@@ -1,4 +1,5 @@
-# GrabAI_ComputerVision_Cars
+# Grab AI Challenge - Computer Vision
+## Automated Object Detection and Identification
 An implementation of the FastAI Object Detection on the Stanford Cars Dataset for the Grab AI Challenge (Computer Vision Category)
 
 Grab AI Challege - Computer Vision
