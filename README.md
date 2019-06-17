@@ -17,5 +17,6 @@ Classes: Make, Model, Year (e.g., 2012 Tesla model S or 2012 BMW M3 coupe)
 
 The solution is inspired by the Object Detection Technique discussed in the Fast.ai lesson by Jeremy Howard. 
 (Link: https://www.youtube.com/watch?v=Z0ssNAbe81M)
+
 Additional insight was derived from Francesco Pochetti on his implementation on Chest Radiographs
 (LinkL http://francescopochetti.com/detecting-pneumonia-in-chest-radiographs-with-fast-ai/)
