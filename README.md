@@ -19,4 +19,4 @@ The solution is inspired by the Object Detection Technique discussed in the Fast
 (Link: https://www.youtube.com/watch?v=Z0ssNAbe81M)
 
 Additional insight was derived from Francesco Pochetti on his implementation on Chest Radiographs
-(LinkL http://francescopochetti.com/detecting-pneumonia-in-chest-radiographs-with-fast-ai/)
+(Link: http://francescopochetti.com/detecting-pneumonia-in-chest-radiographs-with-fast-ai/)
