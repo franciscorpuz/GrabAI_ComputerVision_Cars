@@ -21,3 +21,9 @@ The solution is inspired by the Object Detection Technique discussed in the Fast
 
 Additional insight was derived from Francesco Pochetti on his implementation on Chest Radiographs
 (Link: http://francescopochetti.com/detecting-pneumonia-in-chest-radiographs-with-fast-ai/)
+
+
+All operations are currently limited in the Jupyter Notebook.
+Future improvements would include:
+- Using a larger model (ResNet 50)
+- Deployment in a WebApp
